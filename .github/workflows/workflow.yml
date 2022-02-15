@@ -32,4 +32,12 @@ jobs:
           key: ${{ secrets.EC2_SSH_KEY }}
           host: ${{ secrets.HOST_DNS }}
           username: ${{ secrets.USERNAME }}
-          script: pm2 restart all        
+          script: pm2 restart all     
+  cypress-run:
+    runs-on: ubuntu-latest
+    name: Cypress on Chrome
+    steps:
+      - uses: actions/checkout@v2
+      - uses: cypress-io/github-action@v2
+        with:
+          browser: chrome             
