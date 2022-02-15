@@ -1,0 +1,13 @@
+{
+  "name": "List #1",
+  "description": "created for cypress.io testing",
+  "is_public": true,
+  "url": "",
+  "created_at": "1644310926036",
+  "updated_at": "1644310926036",
+  "owner": {
+    "_id": "61bf3a902e062f13f46baa74",
+    "username": "Johannes Weinsheimer"
+  },
+  "entries": []
+}

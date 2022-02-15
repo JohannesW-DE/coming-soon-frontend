@@ -1,0 +1,50 @@
+{
+  "_id": "61bf3a902e062f13f46baa74",
+  "username": "TestUser",
+  "email": "TestUser@area51.gov",
+  "lists": [
+    {
+      "_id": "61a1f255e83ceab2de0833c6",
+      "name": "Best Of - 2021/2022"
+    },
+    {
+      "_id": "61c85735903ac49cfd67ec71",
+      "name": "foobar"
+    },
+    {
+      "_id": "61c85742903ac49cfd67ec77",
+      "name": "foobarqw"
+    },
+    {
+      "_id": "61c8597a903ac49cfd67ec97",
+      "name": "GUCCIaaaa"
+    }
+  ],
+  "bookmarks": [
+    {
+      "list": {
+        "_id": "61a1f255e83ceab2de0833c5",
+        "name": "Cool MovieZ"
+      },
+      "added_at": "1642165170561",
+      "favourite": true,
+      "own": false
+    },
+    {
+      "list": {
+        "_id": "61a1f255e83ceab2de0833c6",
+        "name": "Best Of - 2021/2022"
+      },
+      "added_at": "1642165183943",
+      "favourite": true,
+      "own": true
+    }
+  ],
+  "settings": [
+    {
+      "key": "countries",
+      "value": null,
+      "values": ["US", "DE"]
+    }
+  ]
+}

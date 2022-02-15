@@ -1,0 +1,240 @@
+{
+  "name": "List #1",
+  "description": "created for cypress.io testing",
+  "is_public": true,
+  "url": "",
+  "created_at": "1644310926036",
+  "updated_at": "1644315564537",
+  "owner": {
+    "_id": "61bf3a902e062f13f46baa74",
+    "username": "Johannes Weinsheimer"
+  },
+  "entries": [
+    {
+      "__typename": "Entry",
+      "_id": "620243ac82f39155075d2169",
+      "comment": null,
+      "season": 2,
+      "position": null,
+      "added_at": "1644315564526",
+      "movie": null,
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61cc80c5ce51533e5484bc05",
+        "tmdb_id": "71912",
+        "name": "The Witcher",
+        "overview": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+        "tagline": "Destiny is a beast.",
+        "genres": ["Sci-Fi & Fantasy", "Drama", "Action & Adventure"],
+        "first_air_date": "1576796400000",
+        "current_season_start_date": null,
+        "videos": [
+          {
+            "__typename": "Video",
+            "name": "A Witcher Holiday Slay Ride",
+            "key": "ZVzFGttzPWc",
+            "site": "YouTube",
+            "type": "Featurette",
+            "published_at": "2020-11-23T13:00:02.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "Henry Cavill Explains Everything You Need To Know About The Witcher's Swords",
+            "key": "HnvSLMbctL4",
+            "site": "YouTube",
+            "type": "Featurette",
+            "published_at": "2020-01-29T17:00:02.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "The Witcher Scene Break Down with Anya Chalotra (Yennefer)",
+            "key": "cFPZ5bsMTSA",
+            "site": "YouTube",
+            "type": "Behind the Scenes",
+            "published_at": "2019-12-26T15:00:01.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "The World of The Witcher with Henry Cavill, Anya Chalotra and Freya Allan",
+            "key": "p_tZxAgotGI",
+            "site": "YouTube",
+            "type": "Featurette",
+            "published_at": "2019-12-23T17:00:04.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "Final Trailer",
+            "key": "eb90gqGYP9c",
+            "site": "YouTube",
+            "type": "Trailer",
+            "published_at": "2019-12-12T10:15:01.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "Character Introduction: Princess Cirilla",
+            "key": "KQPxD-GbF2c",
+            "site": "YouTube",
+            "type": "Featurette",
+            "published_at": "2019-12-09T17:00:04.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "Character Introduction: Geralt of Rivia",
+            "key": "8LiD3i9DS_c",
+            "site": "YouTube",
+            "type": "Featurette",
+            "published_at": "2019-12-09T17:00:03.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "Character Introduction: Yennefer of Vengerberg",
+            "key": "AZDPuYeQQNM",
+            "site": "YouTube",
+            "type": "Featurette",
+            "published_at": "2019-12-09T17:00:00.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "Main Trailer",
+            "key": "ndl1W4ltcmg",
+            "site": "YouTube",
+            "type": "Trailer",
+            "published_at": "2019-10-31T16:00:01.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "Official Teaser",
+            "key": "cSqi-8kAMmM",
+            "site": "YouTube",
+            "type": "Teaser",
+            "published_at": "2019-07-19T22:00:30.000Z"
+          }
+        ],
+        "watch_providers_gql": [
+          {
+            "__typename": "WatchProvider",
+            "logo": "61dff0e65a24b29210c66a7f",
+            "display_priority": "-1",
+            "iso_3166_1": "DE",
+            "name": "Netflix",
+            "type": "flatrate"
+          },
+          {
+            "__typename": "WatchProvider",
+            "logo": "61dff0e65a24b29210c66a7f",
+            "display_priority": "-1",
+            "iso_3166_1": "US",
+            "name": "Netflix",
+            "type": "flatrate"
+          }
+        ],
+        "external_ids": [
+          {
+            "__typename": "ExternalId",
+            "id": "tt5180504",
+            "name": "imdb"
+          }
+        ],
+        "seasons": [
+          {
+            "__typename": "Season",
+            "air_date": "1576796400000",
+            "season_number": 1,
+            "episode_count": 8,
+            "episodes": [
+              {
+                "__typename": "Episode",
+                "id": 1927355,
+                "air_date": "1576796400000",
+                "episode_number": 1,
+                "name": "The End's Beginning",
+                "overview": "Hostile townsfolk and a cunning mage greet Geralt in the town of Blaviken. Ciri finds her royal world upended when Nilfgaard sets its sights on Cintra.",
+                "watched_gql": null
+              },
+              {
+                "__typename": "Episode",
+                "id": 1954612,
+                "air_date": "1576796400000",
+                "episode_number": 2,
+                "name": "Four Marks",
+                "overview": "Bullied and neglected, Yennefer accidentally finds a means of escape. Geralt's hunt for a so-called devil goes to hell. Ciri seeks safety in numbers.",
+                "watched_gql": null
+              },
+              {
+                "__typename": "Episode",
+                "id": 1954613,
+                "air_date": "1576796400000",
+                "episode_number": 3,
+                "name": "Betrayer Moon",
+                "overview": "Geralt takes on another Witcher's unfinished business in a kingdom stalked by a ferocious beast. At a brutal cost, Yennefer forges a magical new future.",
+                "watched_gql": null
+              },
+              {
+                "__typename": "Episode",
+                "id": 1954614,
+                "air_date": "1576796400000",
+                "episode_number": 4,
+                "name": "Of Banquets, Bastards and Burials",
+                "overview": "Against his better judgment, Geralt accompanies Jaskier to a royal ball. Ciri wanders into an enchanted forest. Yennefer tries to protect her charges.",
+                "watched_gql": null
+              },
+              {
+                "__typename": "Episode",
+                "id": 1954615,
+                "air_date": "1576796400000",
+                "episode_number": 5,
+                "name": "Bottled Appetites",
+                "overview": "Heedless of warnings, Yennefer looks for a cure to restore what she's lost. Geralt inadvertently puts Jaskier in peril. The search for Ciri intensifies.",
+                "watched_gql": null
+              },
+              {
+                "__typename": "Episode",
+                "id": 1954616,
+                "air_date": "1576796400000",
+                "episode_number": 6,
+                "name": "Rare Species",
+                "overview": "A mysterious man tries to entice Geralt to join a hunt for a rampaging dragon, a quest that attracts a familiar face. Ciri questions who she can trust.",
+                "watched_gql": null
+              },
+              {
+                "__typename": "Episode",
+                "id": 1954617,
+                "air_date": "1576796400000",
+                "episode_number": 7,
+                "name": "Before a Fall",
+                "overview": "With the Continent at risk from Nilfgaard's rising power, Yennefer revisits her past, while Geralt reconsiders his obligation to the Law of Surprise.",
+                "watched_gql": null
+              },
+              {
+                "__typename": "Episode",
+                "id": 1954618,
+                "air_date": "1576796400000",
+                "episode_number": 8,
+                "name": "Much More",
+                "overview": "A terrifying pack of foes lays Geralt low. Yennefer and her fellow mages prepare to fight back. A shaken Ciri depends on the kindness of a stranger.",
+                "watched_gql": null
+              }
+            ]
+          },
+          {
+            "__typename": "Season",
+            "air_date": "1639695600000",
+            "season_number": 2,
+            "episode_count": 8,
+            "episodes": [
+              {
+                "__typename": "Episode",
+                "id": 3063826,
+                "air_date": "1639695600000",
+                "episode_number": 8,
+                "name": "Family",
+                "overview": "Geralt faces off with a demon targeting his nearest and dearest while the most powerful players on the Continent ramp up their pursuit of Ciri.",
+                "watched_gql": true
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

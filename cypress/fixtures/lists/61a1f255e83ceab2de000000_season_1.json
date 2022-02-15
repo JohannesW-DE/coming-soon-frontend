@@ -1,0 +1,290 @@
+{
+  "__typename": "List",
+  "name": "List #1",
+  "description": "created for cypress.io testing",
+  "is_public": true,
+  "url": "",
+  "created_at": "1644310926036",
+  "updated_at": "1644324088397",
+  "owner": {
+    "__typename": "User",
+    "_id": "61bf3a902e062f13f46baa74",
+    "username": "Johannes Weinsheimer"
+  },
+  "entries": [
+    {
+      "__typename": "Entry",
+      "_id": "620264f859c0c7e2de1f5b54",
+      "comment": null,
+      "season": 1,
+      "position": null,
+      "added_at": "1644324088387",
+      "movie": null,
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61cc80c5ce51533e5484bc05",
+        "tmdb_id": "71912",
+        "name": "The Witcher",
+        "overview": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+        "tagline": "Destiny is a beast.",
+        "genres": ["Sci-Fi & Fantasy", "Drama", "Action & Adventure"],
+        "first_air_date": "1576796400000",
+        "current_season_start_date": null,
+        "videos": [
+          {
+            "__typename": "Video",
+            "name": "A Witcher Holiday Slay Ride",
+            "key": "ZVzFGttzPWc",
+            "site": "YouTube",
+            "type": "Featurette",
+            "published_at": "2020-11-23T13:00:02.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "Henry Cavill Explains Everything You Need To Know About The Witcher's Swords",
+            "key": "HnvSLMbctL4",
+            "site": "YouTube",
+            "type": "Featurette",
+            "published_at": "2020-01-29T17:00:02.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "The Witcher Scene Break Down with Anya Chalotra (Yennefer)",
+            "key": "cFPZ5bsMTSA",
+            "site": "YouTube",
+            "type": "Behind the Scenes",
+            "published_at": "2019-12-26T15:00:01.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "The World of The Witcher with Henry Cavill, Anya Chalotra and Freya Allan",
+            "key": "p_tZxAgotGI",
+            "site": "YouTube",
+            "type": "Featurette",
+            "published_at": "2019-12-23T17:00:04.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "Final Trailer",
+            "key": "eb90gqGYP9c",
+            "site": "YouTube",
+            "type": "Trailer",
+            "published_at": "2019-12-12T10:15:01.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "Character Introduction: Princess Cirilla",
+            "key": "KQPxD-GbF2c",
+            "site": "YouTube",
+            "type": "Featurette",
+            "published_at": "2019-12-09T17:00:04.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "Character Introduction: Geralt of Rivia",
+            "key": "8LiD3i9DS_c",
+            "site": "YouTube",
+            "type": "Featurette",
+            "published_at": "2019-12-09T17:00:03.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "Character Introduction: Yennefer of Vengerberg",
+            "key": "AZDPuYeQQNM",
+            "site": "YouTube",
+            "type": "Featurette",
+            "published_at": "2019-12-09T17:00:00.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "Main Trailer",
+            "key": "ndl1W4ltcmg",
+            "site": "YouTube",
+            "type": "Trailer",
+            "published_at": "2019-10-31T16:00:01.000Z"
+          },
+          {
+            "__typename": "Video",
+            "name": "Official Teaser",
+            "key": "cSqi-8kAMmM",
+            "site": "YouTube",
+            "type": "Teaser",
+            "published_at": "2019-07-19T22:00:30.000Z"
+          }
+        ],
+        "watch_providers_gql": [
+          {
+            "__typename": "WatchProvider",
+            "logo": "61dff0e65a24b29210c66a7f",
+            "display_priority": "-1",
+            "iso_3166_1": "DE",
+            "name": "Netflix",
+            "type": "flatrate"
+          },
+          {
+            "__typename": "WatchProvider",
+            "logo": "61dff0e65a24b29210c66a7f",
+            "display_priority": "-1",
+            "iso_3166_1": "US",
+            "name": "Netflix",
+            "type": "flatrate"
+          },
+          {
+            "__typename": "WatchProvider",
+            "logo": "61dff0e65a24b29210c66a87",
+            "display_priority": "1",
+            "iso_3166_1": "DE",
+            "name": "Amazon Prime Video",
+            "type": "flatrate"
+          },
+          {
+            "__typename": "WatchProvider",
+            "logo": "61dff0e65a24b29210c66a8d",
+            "display_priority": "2",
+            "iso_3166_1": "US",
+            "name": "Apple iTunes",
+            "type": "buy"
+          },
+          {
+            "__typename": "WatchProvider",
+            "logo": "61dff0e65a24b29210c66a97",
+            "display_priority": "3",
+            "iso_3166_1": "US",
+            "name": "Google Play Movies",
+            "type": "buy"
+          },
+          {
+            "__typename": "WatchProvider",
+            "logo": "61dff0e75a24b29210c66c53",
+            "display_priority": "36",
+            "iso_3166_1": "US",
+            "name": "Vudu",
+            "type": "buy"
+          },
+          {
+            "__typename": "WatchProvider",
+            "logo": "61dff0e65a24b29210c66a87",
+            "display_priority": "1",
+            "iso_3166_1": "US",
+            "name": "Amazon Prime Video",
+            "type": "flatrate"
+          },
+          {
+            "__typename": "WatchProvider",
+            "logo": "61dff0e75a24b29210c66d2b",
+            "display_priority": "103",
+            "iso_3166_1": "US",
+            "name": "Sling TV",
+            "type": "flatrate"
+          }
+        ],
+        "external_ids": [
+          {
+            "__typename": "ExternalId",
+            "id": "tt5180504",
+            "name": "imdb"
+          }
+        ],
+        "seasons": [
+          {
+            "__typename": "Season",
+            "air_date": "1576796400000",
+            "season_number": 1,
+            "episode_count": 8,
+            "episodes": [
+              {
+                "__typename": "Episode",
+                "id": 1954618,
+                "air_date": "1576796400000",
+                "episode_number": 8,
+                "name": "Much More",
+                "overview": "A terrifying pack of foes lays Geralt low. Yennefer and her fellow mages prepare to fight back. A shaken Ciri depends on the kindness of a stranger.",
+                "watched_gql": false
+              }
+            ]
+          },
+          {
+            "__typename": "Season",
+            "air_date": "1639695600000",
+            "season_number": 2,
+            "episode_count": 8,
+            "episodes": [
+              {
+                "__typename": "Episode",
+                "id": 3063744,
+                "air_date": "1639695600000",
+                "episode_number": 1,
+                "name": "A Grain of Truth",
+                "overview": "Geralt sets off with Ciri on a journey that leads him to an old friend. After the Battle of Sodden, Tissaia shows no mercy in her search for information.",
+                "watched_gql": null
+              },
+              {
+                "__typename": "Episode",
+                "id": 3063820,
+                "air_date": "1639695600000",
+                "episode_number": 2,
+                "name": "Kaer Morhen",
+                "overview": "Seeking a safe place for Ciri, Geralt heads for home, but danger lurks everywhere — even Kaer Morhen. Yennefer's dreams could be the key to her freedom.",
+                "watched_gql": null
+              },
+              {
+                "__typename": "Episode",
+                "id": 3063821,
+                "air_date": "1639695600000",
+                "episode_number": 3,
+                "name": "What Is Lost",
+                "overview": "Impatient with Geralt's methods, Ciri braves major obstacles to prove her mettle. Scheming and suspicion among the Brotherhood make Yennefer a target.",
+                "watched_gql": null
+              },
+              {
+                "__typename": "Episode",
+                "id": 3063822,
+                "air_date": "1639695600000",
+                "episode_number": 4,
+                "name": "Redanian Intelligence",
+                "overview": "A guest at Kaer Morhen extends a guiding hand to Ciri — and an invitation to Geralt. On the run in Redania, Yennefer seeks safety below ground.",
+                "watched_gql": null
+              },
+              {
+                "__typename": "Episode",
+                "id": 3063823,
+                "air_date": "1639695600000",
+                "episode_number": 5,
+                "name": "Turn Your Back",
+                "overview": "As a powerful mage joins the hunt for Ciri, she cuts a deal with Vesemir over his extraordinary discovery. Geralt explores the mystery of the monoliths.",
+                "watched_gql": null
+              },
+              {
+                "__typename": "Episode",
+                "id": 3063824,
+                "air_date": "1639695600000",
+                "episode_number": 6,
+                "name": "Dear Friend...",
+                "overview": "A close friend is lost — and another found — as Geralt helps Ciri learn more about her power. Cahir warns Fringilla to focus on their primary mission.",
+                "watched_gql": null
+              },
+              {
+                "__typename": "Episode",
+                "id": 3063825,
+                "air_date": "1639695600000",
+                "episode_number": 7,
+                "name": "Voleth Meir",
+                "overview": "Geralt turns to the bard Jaskier for help, Yennefer realizes just how special Ciri is, and tensions rise on the eve of Emperor Emhyr's visit to Cintra.",
+                "watched_gql": null
+              },
+              {
+                "__typename": "Episode",
+                "id": 3063826,
+                "air_date": "1639695600000",
+                "episode_number": 8,
+                "name": "Family",
+                "overview": "Geralt faces off with a demon targeting his nearest and dearest while the most powerful players on the Continent ramp up their pursuit of Ciri.",
+                "watched_gql": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

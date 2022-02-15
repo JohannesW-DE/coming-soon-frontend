@@ -1,0 +1,254 @@
+{
+  "__typename": "ComingSoonResult",
+  "from": "1643583600",
+  "to": "1646607599",
+  "matches": [
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3233489,
+        "season_number": 6,
+        "episode_number": 4,
+        "air_date": "1643670000000",
+        "name": "Don't Let Me Keep You",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61cc7362ce51533e5484b2b0",
+        "name": "This Is Us"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3447498,
+        "season_number": 2,
+        "episode_number": 4,
+        "air_date": "1643670000000",
+        "name": "Episode 4",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d0281f462f5b40d0fb92fa",
+        "name": "Superman & Lois"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3406689,
+        "season_number": 1,
+        "episode_number": 6,
+        "air_date": "1643756400000",
+        "name": "Episode 6",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d2dcad96049181862769b5",
+        "name": "The Book of Boba Fett"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 2438359,
+        "season_number": 1,
+        "episode_number": 6,
+        "air_date": "1643842800000",
+        "name": "Episode 6",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61e6ca0250bf58a74242c9a9",
+        "name": "Peacemaker"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3447499,
+        "season_number": 2,
+        "episode_number": 5,
+        "air_date": "1644274800000",
+        "name": "Episode 5",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d0281f462f5b40d0fb92fa",
+        "name": "Superman & Lois"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3406690,
+        "season_number": 1,
+        "episode_number": 7,
+        "air_date": "1644361200000",
+        "name": "Episode 7",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d2dcad96049181862769b5",
+        "name": "The Book of Boba Fett"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 2438361,
+        "season_number": 1,
+        "episode_number": 7,
+        "air_date": "1644447600000",
+        "name": "Episode 7",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61e6ca0250bf58a74242c9a9",
+        "name": "Peacemaker"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3447500,
+        "season_number": 2,
+        "episode_number": 6,
+        "air_date": "1644879600000",
+        "name": "Episode 6",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d0281f462f5b40d0fb92fa",
+        "name": "Superman & Lois"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 2438363,
+        "season_number": 1,
+        "episode_number": 8,
+        "air_date": "1645052400000",
+        "name": "Episode 8",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61e6ca0250bf58a74242c9a9",
+        "name": "Peacemaker"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3233490,
+        "season_number": 6,
+        "episode_number": 5,
+        "air_date": "1645484400000",
+        "name": "Heart and Soul",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61cc7362ce51533e5484b2b0",
+        "name": "This Is Us"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3447501,
+        "season_number": 2,
+        "episode_number": 7,
+        "air_date": "1645484400000",
+        "name": "Episode 7",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d0281f462f5b40d0fb92fa",
+        "name": "Superman & Lois"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3233491,
+        "season_number": 6,
+        "episode_number": 6,
+        "air_date": "1646089200000",
+        "name": "Episode 6",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61cc7362ce51533e5484b2b0",
+        "name": "This Is Us"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3447502,
+        "season_number": 2,
+        "episode_number": 8,
+        "air_date": "1646089200000",
+        "name": "Episode 8",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d0281f462f5b40d0fb92fa",
+        "name": "Superman & Lois"
+      },
+      "movie": null
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "__typename": "ComingSoonResult",
+  "from": "1640559600",
+  "to": "1644188399",
+  "matches": [
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 2576869,
+        "season_number": 1,
+        "episode_number": 1,
+        "air_date": "1640732400000",
+        "name": "Chapter 1: Stranger in a Strange Land",
+        "overview": "Boba Fett holds court.",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d2dcad96049181862769b5",
+        "name": "The Book of Boba Fett"
+      },
+        "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3233486,
+        "season_number": 6,
+        "episode_number": 1,
+        "air_date": "1641250800000",
+        "name": "The Challenger",
+        "overview": "The Big Three celebrate their 41st birthday.",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61cc7362ce51533e5484b2b0",
+        "name": "This Is Us"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3406358,
+        "season_number": 1,
+        "episode_number": 2,
+        "air_date": "1641337200000",
+        "name": "Chapter 2: The Tribes of Tatooine",
+        "overview": "Boba Fett faces new challengers on Tatooine.",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d2dcad96049181862769b5",
+        "name": "The Book of Boba Fett"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3351646,
+        "season_number": 2,
+        "episode_number": 1,
+        "air_date": "1641682800000",
+        "name": "Trying to Get to Heaven Before They Close the Door",
+        "overview": "Rue and Jules cross paths for the first time since Christmas as East Highland rings in the new year.",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61e180d10d1c665ccbc950b7",
+        "name": "Euphoria"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3233487,
+        "season_number": 6,
+        "episode_number": 2,
+        "air_date": "1641855600000",
+        "name": "One Giant Leap",
+        "overview": "Nicky, Rebecca and Miguel go on a road trip.",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61cc7362ce51533e5484b2b0",
+        "name": "This Is Us"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3243020,
+        "season_number": 2,
+        "episode_number": 1,
+        "air_date": "1641855600000",
+        "name": "What Lies Beneath",
+        "overview": "Lois and Clark struggle as a couple while Chrissy adjusts to running The Smallville Gazette with Lois. Jonathan faces new challenges on the football field, and secrets threaten to destroy Jordan and Sarah's growing relationship. Meanwhile, Kyle grows concerned over Lana's involvement with a new mayoral candidate. Lastly, John Henry Irons and his daughter Natalie attempt to make this new Earth their home.",
+        "watched_gql": true
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d0281f462f5b40d0fb92fa",
+        "name": "Superman & Lois"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3406366,
+        "season_number": 1,
+        "episode_number": 3,
+        "air_date": "1641942000000",
+        "name": "Chapter 3: The Streets of Mos Espa",
+        "overview": "Boba Fett must deal with two very different threats.",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d2dcad96049181862769b5",
+        "name": "The Book of Boba Fett"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 2438301,
+        "season_number": 1,
+        "episode_number": 1,
+        "air_date": "1642028400000",
+        "name": "A Whole New Whirled",
+        "overview": "After making a miraculous recovery, Peacemaker returns home–only to discover that his freedom comes at a price.",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61e6ca0250bf58a74242c9a9",
+        "name": "Peacemaker"
+      },
+      "movie": null
+  },
+  {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 2438351,
+        "season_number": 1,
+        "episode_number": 2,
+        "air_date": "1642028400000",
+        "name": "Best Friends, For Never",
+        "overview": "After Peacemaker’s hazardous escape, tension and mistrust build within the team. Later, as Peacemaker grapples with his new assignment, he receives a surprise visitor.",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61e6ca0250bf58a74242c9a9",
+        "name": "Peacemaker"
+      },
+      "movie": null
+  },
+  {
+    "__typename": "ComingSoonMatch",
+    "episode": {
+      "__typename": "Episode",
+      "id": 2438353,
+      "season_number": 1,
+      "episode_number": 3,
+      "air_date": "1642028400000",
+      "name": "Better Goff Dead",
+      "overview": "On their first official mission to assassinate suspected “butterflies,” Economos and Murn bond, and Peacemaker and Harcourt reach an understanding. But the whole job goes sideways with the arrival of Judomaster.",
+      "watched_gql": false
+    },
+    "tv_show": {
+      "__typename": "TvShow",
+      "_id": "61e6ca0250bf58a74242c9a9",
+      "name": "Peacemaker"
+    },
+    "movie": null
+  },
+  {
+    "__typename": "ComingSoonMatch",
+    "episode": {
+      "__typename": "Episode",
+      "id": 3429678,
+      "season_number": 2,
+      "episode_number": 2,
+      "air_date": "1642287600000",
+      "name": "Out of Touch",
+      "overview": "",
+      "watched_gql": false
+    },
+    "tv_show": {
+      "__typename": "TvShow",
+      "_id": "61e180d10d1c665ccbc950b7",
+      "name": "Euphoria"
+    },
+    "movie": null
+  },
+
+  {
+    "__typename": "ComingSoonMatch",
+    "episode": {
+      "__typename": "Episode",
+      "id": 3233488,
+      "season_number": 6,
+      "episode_number": 3,
+      "air_date": "1642460400000",
+      "name": "Four Fathers",
+      "overview": "Jack, Randall, Kevin and Toby struggle to connect with their children.",
+      "watched_gql": false
+    },
+    "tv_show": {
+      "__typename": "TvShow",
+      "_id": "61cc7362ce51533e5484b2b0",
+      "name": "This Is Us"
+    },
+    "movie": null
+  },
+  {
+    "__typename": "ComingSoonMatch",
+    "episode": {
+      "__typename": "Episode",
+      "id": 3421521,
+      "season_number": 2,
+      "episode_number": 2,
+      "air_date": "1642460400000",
+      "name": "The Ties That Bind",
+      "overview": "Clark opens up to Lois about his ongoing struggle with visions and admits that there is only one person who might be able to help. Meanwhile, Lana receives some unexpected news and tensions begin to rise between Lois and Chrissy. Lastly, Sarah breaks plans with Jordan to spend time with Natalie.",
+      "watched_gql": true
+    },
+    "tv_show": {
+      "__typename": "TvShow",
+      "_id": "61d0281f462f5b40d0fb92fa",
+      "name": "Superman & Lois"
+    },
+    "movie": null
+  },
+  {
+    "__typename": "ComingSoonMatch",
+    "episode": {
+      "__typename": "Episode",
+      "id": 3406368,
+      "season_number": 1,
+      "episode_number": 4,
+      "air_date": "1642546800000",
+      "name": "Chapter 4",
+      "overview": "",
+      "watched_gql": false
+    },
+    "tv_show": {
+      "__typename": "TvShow",
+      "_id": "61d2dcad96049181862769b5",
+      "name": "The Book of Boba Fett"
+    },
+    "movie": null
+  },
+  {
+    "__typename": "ComingSoonMatch",
+    "episode": {
+      "__typename": "Episode",
+      "id": 2438355,
+      "season_number": 1,
+      "episode_number": 4,
+      "air_date": "1642633200000",
+      "name": "The Choad Less Traveled",
+      "overview": "",
+      "watched_gql": false
+    },
+    "tv_show": {
+      "__typename": "TvShow",
+      "_id": "61e6ca0250bf58a74242c9a9",
+      "name": "Peacemaker"
+    },
+    "movie": null
+  },
+  {
+    "__typename": "ComingSoonMatch",
+    "episode": {
+      "__typename": "Episode",
+      "id": 3293176,
+      "season_number": 4,
+      "episode_number": 1,
+      "air_date": "1642719600000",
+      "name": "Episode 1",
+      "overview": "",
+      "watched_gql": false
+    },
+    "tv_show": {
+      "__typename": "TvShow",
+      "_id": "61d1fea00085808a1c1fefad",
+      "name": "Ozark"
+    },
+    "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3293177,
+        "season_number": 4,
+        "episode_number": 2,
+        "air_date": "1642719600000",
+        "name": "Episode 2",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d1fea00085808a1c1fefad",
+        "name": "Ozark"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3293178,
+        "season_number": 4,
+        "episode_number": 3,
+        "air_date": "1642719600000",
+        "name": "Episode 3",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d1fea00085808a1c1fefad",
+        "name": "Ozark"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3293179,
+        "season_number": 4,
+        "episode_number": 4,
+        "air_date": "1642719600000",
+        "name": "Episode 4",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d1fea00085808a1c1fefad",
+        "name": "Ozark"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3293180,
+        "season_number": 4,
+        "episode_number": 5,
+        "air_date": "1642719600000",
+        "name": "Episode 5",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d1fea00085808a1c1fefad",
+        "name": "Ozark"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3293181,
+        "season_number": 4,
+        "episode_number": 6,
+        "air_date": "1642719600000",
+        "name": "Episode 6",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d1fea00085808a1c1fefad",
+        "name": "Ozark"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3293182,
+        "season_number": 4,
+        "episode_number": 7,
+        "air_date": "1642719600000",
+        "name": "Episode 7",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d1fea00085808a1c1fefad",
+        "name": "Ozark"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3429680,
+        "season_number": 2,
+        "episode_number": 3,
+        "air_date": "1642892400000",
+        "name": "Ruminations: Big and Little Bullys",
+        "overview": "",
+        "watched_gql": true
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61e180d10d1c665ccbc950b7",
+        "name": "Euphoria"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3435033,
+        "season_number": 2,
+        "episode_number": 3,
+        "air_date": "1643065200000",
+        "name": "The Thing in the Mines",
+        "overview": "Lois reaches out to Ret. General Lane as Clark's visions become worse during heated arguments with both Jonathan and Jordan. Meanwhile, Lana shares her frustrations with Kyle. Lastly, Natalie learns that her father didn't follow through on a promise he made to her.",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d0281f462f5b40d0fb92fa",
+        "name": "Superman & Lois"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 3406369,
+        "season_number": 1,
+        "episode_number": 5,
+        "air_date": "1643151600000",
+        "name": "Chapter 5",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61d2dcad96049181862769b5",
+        "name": "The Book of Boba Fett"
+      },
+      "movie": null
+    },
+    {
+      "__typename": "ComingSoonMatch",
+      "episode": {
+        "__typename": "Episode",
+        "id": 2438357,
+        "season_number": 1,
+        "episode_number": 5,
+        "air_date": "1643238000000",
+        "name": "Monkey Dory",
+        "overview": "",
+        "watched_gql": false
+      },
+      "tv_show": {
+        "__typename": "TvShow",
+        "_id": "61e6ca0250bf58a74242c9a9",
+        "name": "Peacemaker"
+      },
+      "movie": null
+    }
+  ]
+}

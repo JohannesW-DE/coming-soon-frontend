@@ -1,0 +1,32 @@
+{
+  "movies":[
+     {
+        "_id":"61cc80c5ce51533e5484bc02",
+        "title":"Making The Witcher",
+        "year":2020,
+        "tagline":"",
+        "popularity":61.365
+     }
+  ],
+  "tvShows":[
+     {
+        "_id":"61cc80c5ce51533e5484bc05",
+        "name":"The Witcher",
+        "first_air_date":"1576796400000",
+        "tagline":"Destiny is a beast.",
+        "popularity":678.683,
+        "seasons":[
+           {
+              "air_date":"1576796400000",
+              "name":"Season 1",
+              "season_number":1
+           },
+           {
+              "air_date":"1639695600000",
+              "name":"Season 2",
+              "season_number":2
+           }
+        ]
+     }
+  ]
+}

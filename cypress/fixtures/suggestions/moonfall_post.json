@@ -1,0 +1,14 @@
+{
+  "__typename": "SuggestionsResult",
+  "movies": [
+      {
+          "__typename": "Movie",
+          "_id": "620503315ff7e978170c86a4",
+          "title": "Moonfall",
+          "year": 2022,
+          "tagline": "Humanity will face the dark side of the Moon.",
+          "popularity": 725.189
+      }
+  ],
+  "tvShows": []
+}

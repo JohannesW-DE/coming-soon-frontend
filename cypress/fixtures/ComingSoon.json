@@ -1,0 +1,64 @@
+{
+  "__typename": "ComingSoonResult",
+  "from": "1642947394",
+  "to": "1643552194",
+  "matches": [
+      {
+          "__typename": "ComingSoonMatch",
+          "episode": {
+              "__typename": "Episode",
+              "id": 3435033,
+              "season_number": 2,
+              "episode_number": 3,
+              "air_date": "1643065200000",
+              "name": "The Thing in the Mines",
+              "overview": "Lois reaches out to Ret. General Lane as Clark's visions become worse during heated arguments with both Jonathan and Jordan. Meanwhile, Lana shares her frustrations with Kyle. Lastly, Natalie learns that her father didn't follow through on a promise he made to her.",
+              "watched_gql": false
+          },
+          "tv_show": {
+              "__typename": "TvShow",
+              "_id": "61d0281f462f5b40d0fb92fa",
+              "name": "Superman & Lois"
+          },
+          "movie": null
+      },
+      {
+          "__typename": "ComingSoonMatch",
+          "episode": {
+              "__typename": "Episode",
+              "id": 3406369,
+              "season_number": 1,
+              "episode_number": 5,
+              "air_date": "1643151600000",
+              "name": "Chapter 5",
+              "overview": "",
+              "watched_gql": false
+          },
+          "tv_show": {
+              "__typename": "TvShow",
+              "_id": "61d2dcad96049181862769b5",
+              "name": "The Book of Boba Fett"
+          },
+          "movie": null
+      },
+      {
+          "__typename": "ComingSoonMatch",
+          "episode": {
+              "__typename": "Episode",
+              "id": 2438357,
+              "season_number": 1,
+              "episode_number": 5,
+              "air_date": "1643238000000",
+              "name": "Monkey Dory",
+              "overview": "",
+              "watched_gql": false
+          },
+          "tv_show": {
+              "__typename": "TvShow",
+              "_id": "61e6ca0250bf58a74242c9a9",
+              "name": "Peacemaker"
+          },
+          "movie": null
+      }
+  ]
+}
